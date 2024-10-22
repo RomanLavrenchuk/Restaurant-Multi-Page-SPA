@@ -33,7 +33,6 @@ function Recipe() {
                                 <th>Ingredient</th>
                                 <th>Measure</th>
                             </tr>
-                            <tr></tr>
                         </thead>
                         <tbody>
                             {Object.keys(recipe).map((key) => {
